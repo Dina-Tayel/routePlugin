@@ -1,5 +1,5 @@
 {
-    "name": "route/db-plugin",
+    "name": "test/db-plugin",
     "description": "db-plugin",
     "type": "library",
     "license": "MIT",
