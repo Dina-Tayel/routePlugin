@@ -1,0 +1,20 @@
+{
+    "name": "route/db-plugin",
+    "description": "db-plugin",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Route\\DbPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dina-Tayel",
+            "email": "dinatayel913@gemail.com"
+        }
+    ],
+    "require": {
+    "php" : "8.0.8"
+    }
+}
