@@ -1,5 +1,5 @@
 {
-    "name": "test/db-plugin",
+    "name": "dina/db-plugin",
     "description": "db-plugin",
     "type": "library",
     "license": "MIT",
